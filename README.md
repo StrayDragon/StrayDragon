@@ -7,6 +7,6 @@ A web backend developer, good at python and other backend development
 
 Stay hungry, stay foolish! 🍔
 
-- Read more about my [Blog](https://straydragon.github.io/)
+- Read more about my [Blog(中文)](https://straydragon.github.io/)
 - Contact me by [Email](straydragonl@foxmail.com)
 
