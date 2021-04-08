@@ -11,5 +11,5 @@ Stay hungry, stay foolish! 🍔
 
 - Read more about my [Blog(中文)](https://straydragon.github.io/)
 - Contact me by straydragonl@foxmail.com
-- Quick overview my [stars](https://github.com/StrayDragon/wesome-stars)
+- Quick overview my [stars repo](https://github.com/StrayDragon/awesome-stars)
 
