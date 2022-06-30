@@ -14,3 +14,13 @@ Stay hungry, stay foolish! 🍔
 - Contact me by straydragonl@foxmail.com
 - Quick overview my [stars repo](https://github.com/StrayDragon/awesome-stars)
 
+Ahhh, Forgot me? here some my old avatars: 
+
+<table align="center" style="border: 1px #000000 dashed">
+	<tbody>
+		<tr>
+			<td style="border: 1px #000000 dashed"><img height="120" width="120" src="https://user-images.githubusercontent.com/26061593/176598469-b3718424-39a4-4063-bc65-bb6edb764edb.jpeg"/></td>
+			<td style="border: 1px #000000 dashed">...</td>
+		</tr>
+	</tbody>
+</table>
