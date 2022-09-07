@@ -8,6 +8,7 @@ Stay hungry, stay foolish! 🍔
 <div align="center">
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=straydragon&show_icons=true&theme=&include_all_commits=true" />
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straydragon&theme=&show_icons=true" />
+  <img src="https://leetcard.jacoblin.cool/straydragon?theme=light&site=cn&width=800" />
 </div>
 
 - Read more about my [Blog(中文)](https://straydragon.github.io/)
