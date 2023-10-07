@@ -23,6 +23,7 @@ Ahhh, Forgot me? here are my old avatars:
 <table align="center" style="border: 1px #000000 dashed">
 	<tbody>
 		<tr>
+			<td style="border: 1px #000000 dashed"><img height="120" width="120" src="https://github.com/StrayDragon/StrayDragon/assets/26061593/a54b2fa0-843d-4e39-9151-c0609be11c3b"/></td>
 			<td style="border: 1px #000000 dashed"><img height="120" width="120" src="https://user-images.githubusercontent.com/26061593/176598469-b3718424-39a4-4063-bc65-bb6edb764edb.jpeg"/></td>
 			<td style="border: 1px #000000 dashed">...</td>
 		</tr>
