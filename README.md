@@ -18,6 +18,9 @@ Stay hungry, stay foolish! 🍔
 - Contact me by straydragonl@foxmail.com
 - Quick overview my [stars repo](https://github.com/StrayDragon/awesome-stars)
 
+![Metrics](/github-metrics.svg)
+
+<!--
 Ahhh, Forgot me? here are my old avatars: 
 
 <table align="center" style="border: 1px #000000 dashed">
@@ -29,3 +32,6 @@ Ahhh, Forgot me? here are my old avatars:
 		</tr>
 	</tbody>
 </table>
+-->
+
+
