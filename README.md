@@ -6,10 +6,10 @@ Stay hungry, stay foolish! 🍔
 <!-- ![GitHub 浅色模式](./github-light.svg#gh-light-mode-only)
 ![GitHub 深色模式](./github-dark.svg#gh-dark-mode-only) -->
 <div align="center">
-  
+  <!--
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=straydragon&show_icons=true&theme=&include_all_commits=true" />
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straydragon&theme=&show_icons=true" />
-<!--   <a href="https://www.codewars.com/users/StrayDragon"><img height="40" width="100%" src="https://www.codewars.com/users/StrayDragon/badges/micro" /></a>
+   <a href="https://www.codewars.com/users/StrayDragon"><img height="40" width="100%" src="https://www.codewars.com/users/StrayDragon/badges/micro" /></a>
   <a href="https://leetcode.cn/u/straydragon/"><img src="https://leetcard.jacoblin.cool/straydragon?site=cn&theme=light&width=800" /></a>
  -->
 </div>
