@@ -20,8 +20,7 @@ jobs:
           # Options
           user: StrayDragon
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_octicon: yes
+          base: activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
